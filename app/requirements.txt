@@ -1,6 +1,6 @@
 # Framework
 starlette == 0.13.4
-uvicorn == 0.11.5
+uvicorn == 0.11.7
 
 # Security
 passlib==1.7.2
